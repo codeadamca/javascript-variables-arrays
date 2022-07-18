@@ -1,4 +1,4 @@
-# javascript-variables-arrays
+# A Basic Introduction to JavaScript, Variables, and Arrays
 
 Variables and arrays are used to store data to use within your code. A variable can store one piece of data whle an array can store multiple values. 
 
