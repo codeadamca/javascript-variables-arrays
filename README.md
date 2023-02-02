@@ -39,7 +39,7 @@ Create an HTML file and add the following code:
         <script>
 
         var linkName = "W3Schools";
-        var linkLogo = "http://www.w3schools.com/images/w3schools.png";
+        var linkLogo = "w3schools.png";
         var linkURL = "http://www.w3schools.com/";
         var linkDescription = "W3Schools is a web developer information website, with tutorials and references relating to web development topics such as HTML, CSS, JavaScript and PHP.";
         
@@ -63,7 +63,7 @@ Use `document.write()` and the provided variables to display the link informatio
         <script>
 
         var linkName = "W3Schools";
-        var linkLogo = "http://www.w3schools.com/images/w3schools.png";
+        var linkLogo = "w3schools.png";
         var linkURL = "http://www.w3schools.com/";
         var linkDescription = "W3Schools is a web developer information website, with tutorials and references relating to web development topics such as HTML, CSS, JavaScript and PHP.";
         
