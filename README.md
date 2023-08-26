@@ -121,11 +121,14 @@ document.write("<p>My favourtie colour is " + colours[0] + ".</p>");
 
 Create an array list of items. Then use a series of `document.write()` commands to display the list.
 
-## Tutorial Requirements:
+> Full tutorial URL:  
+> https://codeadam.ca/learning/javascript-variables-arrays.html
 
-* [Visual Studio Code](https://code.visualstudio.com/) or [Brackets](http://brackets.io/) (or any code editor)
+***
 
-Full tutorial URL: https://codeadam.ca/learning/javascript-variables-arrays.html
+## Repo REsources
+
+* [Visual Studio Code](https://code.visualstudio.com/)
 
 <a href="https://codeadam.ca">
 <img src="https://codeadam.ca/images/code-block.png" width="100">
